@@ -7,7 +7,6 @@ This project implements a Movie Recommendation System using the MovieLens datase
 - **Collaborative Filtering**: Recommends movies based on user ratings and similarities between users.
 - **Content-Based Filtering**: Recommends movies based on the attributes of the movies, such as genres.
 - **Cold Start Handling**: Provides recommendations even for new users with limited ratings by leveraging content-based filtering.
-- **Dynamic Structure**: The code is organized into classes and methods for better maintainability and extensibility.
 
 ## Technologies Used
 - Python
