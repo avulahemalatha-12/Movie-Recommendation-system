@@ -38,5 +38,5 @@ python movie_recommendation_system.py
 ```
 
 ## Acknowledgments
-- MovieLens for providing the dataset.
+- [MovieLens](https://grouplens.org/datasets/movielens/) for providing the dataset.
 - The open-source community for the libraries used in this project.
