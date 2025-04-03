@@ -21,4 +21,19 @@ The project uses the [MovieLens dataset](https://grouplens.org/datasets/movielen
 1. Clone the repository:
    ```bash
    git clone <https://github.com/avulahemalatha-12/Movie-Recommendation-system>
-   cd movie-recommendation-system
+   cd Movie-Recommendation-System
+
+2.Install the required libraries
+   ```bash
+   pip install pandas scikit-learn
+
+3.Download the MovieLens dataset and place the ratings.csv and movies.csv files in the ml-latest-small directory.
+
+##Usage
+To run the recommendation system, execute the following command in your terminal:
+```bash
+python movie_recommendation_system.py
+
+##Acknowledgments
+MovieLens for providing the dataset.
+The open-source community for the libraries used in this project.
