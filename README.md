@@ -34,7 +34,7 @@ The project uses the [MovieLens dataset](https://grouplens.org/datasets/movielen
 ## Usage
 To run the recommendation system, execute the following command in your terminal:
 ```bash
-python movie_recommendation_system.py
+python MovieRecommendationSystem.ipynb
 ```
 
 ## Acknowledgments
